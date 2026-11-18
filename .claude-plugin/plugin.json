@@ -1,0 +1,1 @@
+{ "name": "deep-field", "version": "0.1.0", "description": "Deep Field: a calm deep-space theme with a drifting galaxy field, smoked-glass panels and a redshift accent.", "types": "./types/index.d.ts", "license": "MIT" }

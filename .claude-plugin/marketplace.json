@@ -1,0 +1,5 @@
+{
+  "name": "deep-field-theme",
+  "owner": { "name": "jaddboy" },
+  "plugins": [{ "name": "deep-field", "source": "./" }]
+}
